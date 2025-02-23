@@ -1,0 +1,57 @@
+.main-page-body .title {
+    text-align: center;
+}
+
+body {
+    background: url('https://btsdiary.wordpress.com/wp-content/uploads/2015/01/blog-background.png');
+    background-repeat: repeat-y;
+    background-size: cover;
+    text-align: center;
+}
+
+.main-page-body {
+    width: 50vw;
+    margin: auto;
+}
+.main-page-body h2 {
+    padding-left: 20px;
+}
+.main-page-body ul li {
+    padding: 10px 0;
+    list-style: none;
+}
+.addBtn {
+    display: inline-block;
+    background-color: #007bff; /* Blue color */
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    margin-left: 20px;
+}
+
+.new-blog-form {
+    width: 40vw;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-bottom: 20px;
+}
+
+.add-post-page {
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+.post-body {
+    width: 50vw;
+    margin: auto;
+}

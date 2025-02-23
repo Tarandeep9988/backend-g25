@@ -1,0 +1,51 @@
+[
+  {
+    "title": "The Rise of AI in India",
+    "content": "Artificial intelligence is revolutionizing India’s tech landscape. From chatbots in customer service to AI-driven medical diagnostics, India is rapidly adopting AI solutions.",
+    "author": "Rajesh Kumar",
+    "id": 0,
+    "date": "2025/01/29"
+  },
+  {
+    "title": "Why JavaScript is Popular Among Indian Developers",
+    "content": "JavaScript remains the go-to language for Indian developers, especially with the rise of startups and freelancing. Frameworks like React and Node.js dominate the ecosystem.",
+    "author": "Pooja Sharma",
+    "id": 1,
+    "date": "2025/02/07"
+  },
+  {
+    "title": "How to Stay Fit in a 9-to-5 IT Job",
+    "content": "Balancing health with long IT work hours is tough. Yoga, morning walks, and homemade tiffin meals are great ways for professionals to stay fit.",
+    "author": "Ravi Verma",
+    "id": 2,
+    "date": "2025/02/19"
+  },
+  {
+    "title": "India’s Ambition for Space: ISRO’s Future Missions",
+    "content": "After Chandrayaan and Gaganyaan, ISRO is aiming for more interplanetary missions. Will India be the next big player in space exploration?",
+    "author": "AstroPriya",
+    "id": 3,
+    "date": "2025/02/20"
+  },
+  {
+    "title": "Top 5 VS Code Extensions for Indian Developers",
+    "content": "Tools like Prettier, Live Server, and GitLens are widely used among Indian developers to streamline coding and debugging processes.",
+    "author": "DevAnkit",
+    "id": 4,
+    "date": "2025/02/18"
+  },
+  {
+    "title": "The Future of Electric Vehicles in India",
+    "content": "With TATA, Ola, and Mahindra pushing EVs, India is set for an electric revolution. But will infrastructure challenges slow down adoption?",
+    "author": "AutoGyaan",
+    "id": 5,
+    "date": "2025/02/03"
+  },
+  {
+    "title": "Coding vs Programming",
+    "content": "Programming means to think about the logic and coding is giving instruction to the computer to do a specific task",
+    "author": "Tarandeep Singh",
+    "id": 6,
+    "date": "2025/2/23"
+  }
+]
